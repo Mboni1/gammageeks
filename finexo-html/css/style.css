@@ -517,7 +517,7 @@ a:focus {
 }
 
 .about_section .img-box img {
-  max-width: 100%;
+  max-width: 110%;
 }
 
 .about_section .detail-box h3 {
@@ -525,7 +525,7 @@ a:focus {
 }
 
 .about_section .detail-box p {
-  margin-top: 15px;
+  margin-top: 20px;
 }
 
 .about_section .detail-box a {
