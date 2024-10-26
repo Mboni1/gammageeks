@@ -45,6 +45,7 @@ body {
   align-items: flex-start;
 
 
+
 }
 
 .heading_container h2 {
@@ -67,6 +68,7 @@ body {
   -ms-flex-align: center;
   align-items: center;
   text-align: center;
+
 }
 
 a,
@@ -105,6 +107,7 @@ a:focus {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
+
 }
 
 .hero_area .hero_bg_box {
